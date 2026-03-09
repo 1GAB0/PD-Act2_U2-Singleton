@@ -12,6 +12,11 @@ a la vez que proporciona un punto de acceso global a dicha instancia.
 
 ## [Codigo](Program.cs)
 
+
+<img width="467" height="603" alt="SS singleton2" src="https://github.com/user-attachments/assets/c8911e12-2a44-4ab2-bfa6-99429cb1ad21" />
+
+<img width="393" height="322" alt="SS singleton" src="https://github.com/user-attachments/assets/74826de7-364b-41a2-b227-3f77ec17fe87" />
+
 1.-el atributo estático de la instancia
   - Es una variable estática, entonces es propia de la clase, pero
   - no de los objetos que se generen. Se usa para guardar en la memoria
